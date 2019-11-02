@@ -1,0 +1,75 @@
+.container{
+    width:1000px;
+    height:1000px;
+    margin:auto;
+
+}
+.header{
+    width:1000px;
+    height:500px;
+    background: khaki;
+
+}
+.session{
+    width:1000px;
+    height:500px;
+
+}
+.session1{
+    width:300px;
+    height:500px;
+    background:tomato;
+    float: left;
+
+}
+.session2{
+    width:700px;
+    height:500px;
+    float: left;
+
+}
+.session2a{
+    width:700px;
+    height:150px;
+
+}
+.session2aone{
+    width:350px;
+    height:150px;
+    background:indigo;
+    float: left;
+
+}
+.session2atwo{
+    width:350px;
+    height:150px;
+    background: violet;
+    float: left;
+
+}
+.session2b{
+    width:700px;
+    height:350px;
+
+}
+.session2bone{
+    width:300px;
+    height:350px;
+    background: fuchsia;
+    float: left;
+
+}
+.session2btwo{
+    width:200px;
+    height:350px;
+    background: yellow;
+    float: left;
+
+}
+.session2bthree{
+    width:200px;
+    height:350px;
+    background: turquoise;
+    float: left;
+
+}
